@@ -1,0 +1,14 @@
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\bin\Debug\net8.0\11.1.2.exe
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\bin\Debug\net8.0\11.1.2.deps.json
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\bin\Debug\net8.0\11.1.2.runtimeconfig.json
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\bin\Debug\net8.0\11.1.2.dll
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\bin\Debug\net8.0\11.1.2.pdb
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\11.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\11.1.2.AssemblyInfoInputs.cache
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\11.1.2.AssemblyInfo.cs
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\11.1.2.csproj.CoreCompileInputs.cache
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\11.1.2.dll
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\refint\11.1.2.dll
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\11.1.2.pdb
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\11.1.2.genruntimeconfig.cache
+C:\Users\vzyko\source\repos\дз 11.1\11.1.2\obj\Debug\net8.0\ref\11.1.2.dll
