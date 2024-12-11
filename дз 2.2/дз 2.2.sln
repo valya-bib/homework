@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "дз 2.2 факториал", "дз 2.2\дз 2.2 факториал.csproj", "{F49DE2D6-6E03-4029-9143-DDE22B80A5A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "дз 2.2 фибоначчи", "дз 2.2 фибонначи\дз 2.2 фибоначчи.csproj", "{1123C9B2-AD7A-441E-8509-37BACBCD5A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49DE2D6-6E03-4029-9143-DDE22B80A5A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49DE2D6-6E03-4029-9143-DDE22B80A5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49DE2D6-6E03-4029-9143-DDE22B80A5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49DE2D6-6E03-4029-9143-DDE22B80A5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1123C9B2-AD7A-441E-8509-37BACBCD5A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1123C9B2-AD7A-441E-8509-37BACBCD5A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1123C9B2-AD7A-441E-8509-37BACBCD5A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1123C9B2-AD7A-441E-8509-37BACBCD5A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75AE7EB-B4F1-4CAE-B9E5-AC209F93E9B1}
+	EndGlobalSection
+EndGlobal
