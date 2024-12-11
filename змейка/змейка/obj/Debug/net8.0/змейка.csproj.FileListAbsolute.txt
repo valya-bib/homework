@@ -1,0 +1,14 @@
+C:\Users\vzyko\source\repos\змейка\змейка\bin\Debug\net8.0\змейка.exe
+C:\Users\vzyko\source\repos\змейка\змейка\bin\Debug\net8.0\змейка.deps.json
+C:\Users\vzyko\source\repos\змейка\змейка\bin\Debug\net8.0\змейка.runtimeconfig.json
+C:\Users\vzyko\source\repos\змейка\змейка\bin\Debug\net8.0\змейка.dll
+C:\Users\vzyko\source\repos\змейка\змейка\bin\Debug\net8.0\змейка.pdb
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\змейка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\змейка.AssemblyInfoInputs.cache
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\змейка.AssemblyInfo.cs
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\змейка.csproj.CoreCompileInputs.cache
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\змейка.dll
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\refint\змейка.dll
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\змейка.pdb
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\змейка.genruntimeconfig.cache
+C:\Users\vzyko\source\repos\змейка\змейка\obj\Debug\net8.0\ref\змейка.dll
